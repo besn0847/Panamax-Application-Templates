@@ -1,0 +1,14 @@
+---
+name: Openl Tablets
+description: Version 5.13.2 of Openl Tablets, a Business Rules Engine
+keywords: openl-tablets
+type: Default
+documentation: To be added
+images:
+- name: besn0847_openl-tablets_5.13.2
+  source: besn0847/openl-tablets:5.13.2
+  type: Default
+  ports:
+  - host_port: '8080'
+    container_port: '8080'
+    proto: TCP
